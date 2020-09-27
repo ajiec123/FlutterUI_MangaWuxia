@@ -1,6 +1,6 @@
 # first_app
 
-A new Flutter project.
+This is my first FlutterUI Apps for reading comics or manga
 
 ## Getting Started
 
